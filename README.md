@@ -1,7 +1,7 @@
 # Fake_Bil
 
 ### This is the first example I published and there are many more
-<img src="https://raw.githubusercontent.com/T1mwy/Fake_Bil/main/Fakebil.png?token=GHSAT0AAAAAAB2MLM2KXL7KKQXJ4ODCQCP2Y6TMW2A" alt="Italian Trulli">
+<img src="https://media.discordapp.net/attachments/929256142180327436/1068408481062867074/Fakebil.png" alt="Italian Trulli">
 
 ### !Warning
 This is an illegal fake receipt generator and i made it for sale and for you to buy it you have to contact me to buy it privately
@@ -12,5 +12,5 @@ This is an illegal fake receipt generator and i made it for sale and for you to 
 ### I sell for 25$ for the source code
 
 ### Contact
-Discord : T1mmy#6773
-Email : everybadday007@gmail.com
+<h4>Discord : T1mmy#6773</h4>
+<h4>Email : everybadday007@gmail.com</h4>
