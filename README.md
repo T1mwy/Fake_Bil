@@ -10,3 +10,7 @@ This is an illegal fake receipt generator and i made it for sale and for you to 
 ### I sell for 15$ for the exe file
 
 ### I sell for 25$ for the source code
+
+### Contact
+Discord : T1mmy#6773
+Email : everybadday007@gmail.com
